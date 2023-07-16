@@ -1,0 +1,13 @@
+@import "./views/Home/index.scss";
+@import "./views/MovieDetail/index.scss";
+@import "./components/Header/index.scss";
+@import "./components/MovieCard/index.scss";
+
+@import url('https://fonts.googleapis.com/css2?family=Hubballi&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+}
